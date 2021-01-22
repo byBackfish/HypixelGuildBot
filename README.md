@@ -5,7 +5,9 @@ A Discord Bot that sends Guild Chat messages into a Discord Channel, and Discord
 
 *Download the Sources*
 *Run `npm init`*
+
 *Run `npm install`*
+
 *Create a config.json with the Following properties*
 
 ``discord.token, discord.channel, minecraft.username and minecraft.password``
