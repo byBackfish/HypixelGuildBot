@@ -1,0 +1,21 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.11.1",
+    "mineflayer": "^2.40.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "nodemon": "^2.0.7",
+    "prismarine-viewer": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx nodemon index.js -w ."
+  },
+  "author": "byBackfish",
+  "license": "ISC"
+}
